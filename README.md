@@ -1,2 +1,2 @@
-# fake-news-dectector
-this is my project 
+# fake_news
+This is my fake news detaction repository..
